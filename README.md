@@ -1,4 +1,4 @@
 # LeandroCasarin
 npm install
---para corre la app
+--para correr la app
 npm run dev 
